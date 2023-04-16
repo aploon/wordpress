@@ -1,5 +1,5 @@
 <?= get_header() ?>
 
-Hello, world!
+Hello, world! : <?php wp_title() ?>
 
 <?= get_footer() ?>
